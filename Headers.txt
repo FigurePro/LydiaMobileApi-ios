@@ -1,0 +1,7 @@
+Content-Type: application/json
+Connection: keep-alive
+Accept: application/json
+User-Agent: LYDIA/10.3.6 (com.lydia-app; build:1; iOS 14.6.0) Alamofire/5.0.0
+Accept-Language: fr-FR;q=1.0
+Accept-Encoding: br;q=1.0, gzip;q=0.9, deflate;q=0.8
+Content-Length: 306

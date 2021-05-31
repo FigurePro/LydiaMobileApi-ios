@@ -1,0 +1,1 @@
+{"phone_identifier":"","password":"<PASS>","client_secret":"42ufcgfxhxkwcosoc808gosso4kg0kk4sg8so0gg4w4kk0c0g4","login":"<USER>","client_id":"1_66w66wwbnocg4co0cc84wo0wkksgwo8k4gggw44occsk8wssws","grant_type":"https://lydia-app.com/grants/member_password"}
